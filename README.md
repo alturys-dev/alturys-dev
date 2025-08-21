@@ -5,7 +5,7 @@
 
 <!-- ====== TITLE ====== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Alturys+%7C+Websites+%26+Custom+Software;Fast+Delivery+%E2%80%A2+Scalable+Solutions+%E2%80%A2+Premium+Design;Simpler.+Faster.+Centralized." alt="Alturys typing headline">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Simpler.+Faster.+Centralized." alt="Alturys typing headline">
 </h1>
 
 ---
